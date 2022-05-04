@@ -1,0 +1,7 @@
+
+Homepage-
+
+List of preset stocks are sent to the backend and each will be constructed into a stock object given their ticker
+and a random amount generated between 1 and 10.
+
+getMultiple -> getMultipleStocks -> for each ticker create object and return
